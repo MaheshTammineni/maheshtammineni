@@ -1,6 +1,6 @@
-# maheshtammineni98
-Hi there 👋, I am Mahesh Tammineni 🙂
-- I'm a Programmer, Developer 🧑‍🎓
+### Hi there 👋, I am  Mahesh Tammineni 🙂
+## I'm a Programmer, Developer 🧑‍🎓
+
 - 🔭 I’m currently working on something cool 😎
 - 🌱 I’m currently learning React Hooks ⚛
 - 👯 Looking forward to collaborating with other developers
